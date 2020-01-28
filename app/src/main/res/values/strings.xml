@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FallingWords</string>
+
+    <string name="game_guidance">Guidance: Check falling word with the word at top of the screen.
+        if this word is the translation of top word, select it as a correct one to get a point!</string>
+    <string name="score">Score: 0</string>
 </resources>
